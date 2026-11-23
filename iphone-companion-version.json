@@ -1,8 +1,8 @@
 {
   "app": "iphone-companion",
-  "version": "0.16a",
+  "version": "0.16b",
   "build_date": "2026-11-23",
-  "setup_url": "https://api.github.com/repositories/1464261797/releases/assets/783644138",
-  "sha256": "4a708dde9b06583c7817f02e03eec254ac9416c71fc0d8c3995249a8481fe474",
-  "size": 24739710
+  "setup_url": "https://api.github.com/repositories/1464261797/releases/assets/783847445",
+  "sha256": "39252b83fde770ad0c66ee92f4f4c360d2b66b60727448d3e94d6b83369b2171",
+  "size": 24739792
 }
