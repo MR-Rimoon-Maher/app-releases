@@ -1,3 +1,3 @@
-0.9.11
-86e0310abff9e1a59286c353c124ba916189070f8c0ec75adc83fe1861f5e7f4
-https://raw.githubusercontent.com/MR-Rimoon-Maher/app-releases/79bba08c890b8fc029b44bf648d9ed23e67f34d6/WindowsCleanerSetup-0.9.11.exe
+0.9.12
+0c1aced61922226e7e168ecff93cbd557689808b1b5760e5b83ad9fa750f4afe
+https://raw.githubusercontent.com/MR-Rimoon-Maher/app-releases/5fa542c1b4816d85ad7f2ce9140177c9be6f5f54/WindowsCleanerSetup-0.9.12.exe
