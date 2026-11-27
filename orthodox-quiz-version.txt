@@ -1,3 +1,3 @@
-1.0.1
-62b7448d5965cfe377746f9a72bf0fb94dc67c58c454d807ae354897eaada020
-https://raw.githubusercontent.com/MR-Rimoon-Maher/app-releases/main/OrthodoxQuizSetup-1.0.1.exe
+1.0.2
+27609facd77a007b259375f40c756c2bdab82b45d974f12c5b89e1f0fd39b85d
+https://raw.githubusercontent.com/MR-Rimoon-Maher/app-releases/main/OrthodoxQuizSetup-1.0.2.exe
